@@ -34,7 +34,7 @@ ShopingKaro is a web application developed in Node.js that allows users to easil
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ShopingKaro.git
+   git clone [https://github.com/your-username/ShopingKaro.git](https://github.com/akshatt29/ShoppingKaro.git)
 
 2. Install dependency:
 
